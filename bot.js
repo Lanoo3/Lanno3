@@ -7389,7 +7389,7 @@ message.member.voiceChannel
 
 client.login("ODM5MzI1OTAxODY2NTMyODk0.YJIDxg.KI45BBVWEaP5BFants0475KwpsQ");
 client2.login("ODM5MzI1OTAxODY2NTMyODk0.YJIDwQ.ieGGam2xvXwovil2u_Z2MpqGidI");
-client3.login("ODM5MzM5MDI4MzEzODAwNzE2.YJIOtQ.rflr7csvM_uMFhDqBDz9ll0vftg");
+client3.login("ODM5MzM5MDI4MzEzODAwNzE2.YJIUGw.kH0zRV9o0jB41LWnQ5GVwYNhExc");
 client4.login("");
 client5.login("");
 client6.login("");
